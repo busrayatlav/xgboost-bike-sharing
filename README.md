@@ -41,12 +41,14 @@ The notebook includes the following:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/bike-sharing-analysis.git
+   
 2. Install the required Python libraries:
-  ```bash
+   ```bash
    pip install -r requirements.txt
+
 3. Open the Jupyter Notebook and execute the cells:
-  ```bash
-  jupyter notebook bike_sharing.ipynb
+   ```bash
+   jupyter notebook bike_sharing.ipynb
 
 ## Dataset Source
 The dataset was sourced from the UCI Machine Learning Repository. You can find more details here.
