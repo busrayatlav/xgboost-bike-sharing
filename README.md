@@ -53,5 +53,5 @@ The notebook includes the following:
 ## Dataset Source
 The dataset was sourced from the UCI Machine Learning Repository. You can find more details here.
 
-License
+## License
 This project is licensed under the MIT License. 
